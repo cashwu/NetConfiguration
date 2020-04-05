@@ -1,0 +1,12 @@
+{
+  "test" : 123,
+  "Redis": {
+    "IsEnable": true,
+    "Password": "",
+    "SyncTimeout": 5000,
+    "ConnectTimeout": 3000,
+    "Prefix": "Prefix_",
+    "Ip": "127.0.0.1",
+    "Port": 6379
+  }
+}
